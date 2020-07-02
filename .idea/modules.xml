@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/basic-react-app-with-hook.iml" filepath="$PROJECT_DIR$/.idea/basic-react-app-with-hook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react_movies_app.iml" filepath="$PROJECT_DIR$/.idea/react_movies_app.iml" />
     </modules>
   </component>
 </project>
